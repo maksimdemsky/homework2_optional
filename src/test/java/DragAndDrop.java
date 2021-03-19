@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 
 import static com.codeborne.selenide.Selenide.*;
 
-public class dragAndDrop {
+public class DragAndDrop {
 
     @Test
     void dropDrag() {
